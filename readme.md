@@ -1,5 +1,8 @@
 ### 別の世界
+GitHub
 
+### 便利
+配布やリンクがメインのサイト
 
 <!--
 **alphachannelworld/alphachannelworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
