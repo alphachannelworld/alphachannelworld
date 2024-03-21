@@ -5,7 +5,7 @@ GitHub
 配布やリンクがメインのサイト
 
 
-Copyright © 2024 Team Alpha All rights reserved.
+© 2024 Team Alpha All rights reserved.
 
 <!--
 **alphachannelworld/alphachannelworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
